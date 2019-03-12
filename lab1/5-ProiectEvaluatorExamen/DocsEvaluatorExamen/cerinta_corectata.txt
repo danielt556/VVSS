@@ -1,0 +1,13 @@
+VVSS, Proiect 5. Evaluator Examen
+
+5.Evaluator Examen
+
+Un profesor doreste dezvoltarea unui program pentru gestionarea subiectelor pentru un test de tip grila. Programul va avea urmatoarele functionalitati:
+
+F01. UI. La lansarea in executie a programului, in consola va fi afisat un meniu cu urmatoarele optiuni, fiecare pe cate o linie : 1. Adauga intrebare, 2. Creeaza test, 3. Afiseaza statistica, 4. Exit. Afisarea statisticilor se va face tot in consola.
+
+F02. adaugarea unei noi intrebari pentru un anumit domeniu (enunt intrebare, rapuns1, raspuns 2, raspuns 3, raspunsul corect, domeniul) in setul de intrevari disponibile. Intrebarile vor fi stocate local, in fisierul 'intrebari.txt'
+
+F03. creare unui nou test ( testul va contine 5 intrebari alese aleator din cele disponibile, din domenii dierite)
+
+F04. afisarea unei statistici cu numarul de intrebari organizate pe domenii. Statisticile vor fi afisate in procente cu 2 zecimale.
