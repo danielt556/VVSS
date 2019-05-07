@@ -8,7 +8,7 @@ public class Test  {
 	private List<Intrebare> intrebari;
 	
 	public Test() {
-		intrebari = new LinkedList<Intrebare>(); 
+
 	}
 	
 	public List<Intrebare> getIntrebari() {
